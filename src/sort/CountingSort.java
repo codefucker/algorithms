@@ -1,6 +1,11 @@
+package sort;
+
 import java.util.Arrays;
 import java.util.concurrent.ThreadLocalRandom;
 
+/**
+ * Сортировка подсчётом (работает при ограниченном наборе чисел).
+ */
 public class CountingSort {
 
     public static void main(String[] args) {

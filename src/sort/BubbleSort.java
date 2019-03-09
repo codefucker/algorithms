@@ -1,5 +1,10 @@
+package sort;
+
 import java.util.Arrays;
 
+/**
+ * Пузырьковая сортировка.
+ */
 public class BubbleSort {
     static int steps = 0;
 

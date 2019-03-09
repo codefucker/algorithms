@@ -1,5 +1,10 @@
+package sort;
+
 import java.util.Arrays;
 
+/**
+ * Быстрая сортировка.
+ */
 public class QSort {
 
     private static int steps = 0;
